@@ -1,2 +1,0 @@
-# SmarToll-Web
-Web interface
