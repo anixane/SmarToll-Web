@@ -1,6 +1,8 @@
 # SmarToll-Web
 Web Portal/User Portal
 
+![alt text](https://github.com/anixane/SmarToll-Web/blob/master/images/screenshot.png)
+
 
 This website is made to monitor all the toll transaction and for back-end verification by the government.
 
